@@ -67,9 +67,9 @@ html{
     width: 50%;
     height: 100px;
     justify-content: space-between;
-    margin-bottom: 12px;
     background-color: darkcyan;
     margin: auto;
+    margin-bottom: 15px;
     display: flex;
     padding: 1rem;
     align-items: center;
